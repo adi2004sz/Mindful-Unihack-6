@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-11-09 15.17.48 - A minimalist, original logo for a mental health support app, using soothing shades of blue. Concept 1_ An abstract shape of two hands gently supportin-modified (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "DALL·E 2024-11-09 15.17.48 - A minimalist, original logo for a mental health support app, using soothing shades of blue. Concept 1_ An abstract shape of two hands gently supportin-modified (1) 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "DALL·E 2024-11-09 15.17.48 - A minimalist, original logo for a mental health support app, using soothing shades of blue. Concept 1_ An abstract shape of two hands gently supportin-modified (1) 2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
